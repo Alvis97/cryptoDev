@@ -129,7 +129,7 @@
 
 
 //import { getHashedName, getNameAccountKey, NameRegistryState } from "@solana/spl-name-service";
-//Some error still excist, the code seems correct but it cant connect to the sources
+//Some error still exist, the code seems correct but it cant connect to the sources
 import { getHashedName, getNameAccountKey, NameRegistryState } from "@solana/spl-name-service";
 import { Connection, PublicKey } from "@solana/web3.js";                                                                                                                            
 
